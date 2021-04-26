@@ -1,2 +1,3 @@
 # avblocks-assets
-Demo audio and video assets used by the AVBlocks samples.  
+
+These demo audio and video assets are used as input for the AVBlocks samples.
